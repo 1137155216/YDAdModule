@@ -9,7 +9,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 Pod::Spec.new do |s|
   s.name             = 'YDAdModule'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'A short description of YDAdModule.'
 
   s.description      = <<~DESC
